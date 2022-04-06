@@ -6,7 +6,3 @@ Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
 
 # Details
 The aim of this project was to create an animal trading card that would describe any animal of my choice.
-
-# Source
-All external source, links and credit used for this project was duly acknowledged.
-
