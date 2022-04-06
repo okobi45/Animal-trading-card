@@ -7,6 +7,12 @@ Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
 # Details
 The aim of this project was to create an animal trading card that would describe any animal of my choice.
 
-# Source
-All external source, links and credit used for this project was duly acknowledged.
+# Reference
+https://en.wikipedia.org/wiki/Wolf
+https://karapaia.com/archives/52287886.html
+https://www.spirithoods.com/blogs/news/90000135-25-awesome-facts-about-grey-wolves
+https://www.livingwithwolves.org/about-wolves/social-wolf
+https://www.spirithoods.com/blogs/news/90000135-25-awesome-facts-about-grey-wolves
+
+
 
