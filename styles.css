@@ -1,0 +1,77 @@
+/* add your CSS here */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#box-shadow {
+    margin: 10px;
+    box-shadow: 5px 5px 5px #232023;
+}
+
+.container {
+    border: 1px solid #c1c1c1;
+    width: 310px;
+    font-family: helvetica, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #D6CFC7;
+    color: #232023;
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+img {
+    width: 300px;
+}
+
+.space-layout {
+    padding: 5px;
+}
+
+
+.section {
+    border: 1px solid #232023;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+.section-layout {
+    margin: 5px;
+    padding-left: 5px;
+
+}
+
+
+#interesting-fact {
+    font-style: italic;
+    font-size: 12px;
+}
+
+
+ul {
+    list-style-type: none;
+    display: inline;
+
+}
+
+
+li {
+    font-size: 13px;
+    padding-left: 10px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.description {
+    font-size: 13px;
+}
